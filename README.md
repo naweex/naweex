@@ -3,13 +3,13 @@
 I'm using NODEJS,EXPRESS, and JavaScript to make websites dance. 🕺🏽
 I'm also interested in cyber security.
 
-****
+**Hello World**
 
 _
 
-### 🔭 I’m working on
+### 🔭 I’m working on : - my projects.🌱
 
-- my projects.🌱
+
 
 <div display="flex">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
@@ -31,7 +31,7 @@ _
 
 
 ### 📫 How to reach me
-_
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>  navid.bahrami201@gmail.com
 
 ### ⚡ Fun fact
 
