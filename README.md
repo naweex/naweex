@@ -1,17 +1,15 @@
 ## Hi there 👋
 
 I'm using NODEJS,EXPRESS, and JavaScript to make websites dance. 🕺🏽
-I'm interested in cyber security.
+I'm also interested in cyber security.
 
-**I love working with EXPRESS**
+****
 
 _
 
 ### 🔭 I’m working on
 
-- my project.
-
-### 🌱 I’m learning
+- my projects.🌱
 
 <div display="flex">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
@@ -31,9 +29,6 @@ _
    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 </div>
 
-### 🤔 I’m looking for help with
-
-- Integrating AI models to web applications
 
 ### 📫 How to reach me
 _
