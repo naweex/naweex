@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 I'm using NODEJS,EXPRESS, and JavaScript to make websites dance. 🕺🏽
-I'm also interested in cyber security.
+I have some practical experience in cyber security.
 
 **Hello World**
 
 _
 
-### 🔭 I’m working on : - my projects.🌱
+### 🔭 I’m working on : - my project.🌱
 
 
 
@@ -35,4 +35,4 @@ _
 
 ### ⚡ Fun fact
 
-I'm a cat person.
+I'm crazy about learning new stuff in tech.
