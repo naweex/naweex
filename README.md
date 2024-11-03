@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm using NODEJS,EXPRESS, and JavaScript to make websites dance. 🕺🏽
+I'm using NODEJS,EXPRESS to make websites dance. 🕺🏽
 I have some practical experience in cyber security.
 
 **Hello World**
@@ -24,8 +24,6 @@ _
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="swagger"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>  
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali linux"/>
   <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burp suite"/>
 </div>
 
