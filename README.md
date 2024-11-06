@@ -1,13 +1,13 @@
-## Hi there 👋
+## Hi there 🙋‍♂️❤
 
 I'm using NODEJS,EXPRESS to make websites dance. 🕺🏽
-I have some practical experience in cyber security.
+I have some practical experience in cyber security.🐱‍👤
 
 **Hello World**
 
 _
 
-### 🔭 I’m working on : - my project.🌱
+### 🔭 I’m working on : - my project.👀
 
 
 
@@ -31,6 +31,6 @@ _
 ### 📫 How to reach me
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>  navid.bahrami201@gmail.com
 
-### ⚡ Fun fact
+### true fact📍
 
-I'm crazy about learning new stuff in tech.
+I'm crazy about learning new stuff in tech.📚
