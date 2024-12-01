@@ -1,6 +1,6 @@
 ## Hi there 🙋‍♂️❤
 
-## I'm using NODEJS,EXPRESS to make websites dance. 🕺🏽
+## I'm using NODEJS to make websites dance. 🕺🏽
 ## I have some practical experience in cyber security.🐱‍👤
 
 
@@ -28,6 +28,5 @@
 ### 📫 How to reach me
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>  navid.bahrami201@gmail.com
 
-### true fact📍
 
 I'm crazy about learning new stuff in tech.📚
