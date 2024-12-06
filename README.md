@@ -5,7 +5,6 @@
 
 
 
-***🔭 I’m working on : - my project.👀***
 
 <div display="flex">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
@@ -24,7 +23,7 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="swagger"/>
 <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burp suite"/>
 
-
+***🔭 I’m working on : - my project.👀***
 ### 📫 How to reach me
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>  navid.bahrami201@gmail.com
 
