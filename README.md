@@ -33,7 +33,7 @@
 
 ### 📫 How to reach me
 <div align="left">
-  <a href="navid.bahrami201@gmail.com">
+  <a href="mailto:navid.bahrami201@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
          width="52" 
          height="40" 
