@@ -1,7 +1,12 @@
 ###
 <h1 align="left">Heeeey 🙋‍♂️❤ </h1>
-<p align="left">I'm using NODEJS to make websites dance. 🕺🏽</p>
-<h2 align="left">I have some practical experience in cyber security.🐱‍👤</h2>
+🚀 Node.js/NestJS Engineer | Nerd 🐱‍👤
+<h1 align="left">I turn coffee into scalable, high-performance systems. Passionate about building robust backend solutions with Node.js, architecting RESTful APIs, and engineering real-time applications that don't just work – they dominate.</h1>
+💻 Tech Arsenal:
+Node.js | Express/Nest.js | TypeScript | Javascript | PostgreSQL/MongoDB/MySql | Docker
+OWASP Top 10 | CEH Certified | Burp Suite 
+
+
 
 
 
