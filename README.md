@@ -1,9 +1,9 @@
 ###
-<h1 align="left">Heeeey 🙋‍♂️❤
-🚀 Node.js/NestJS Engineer | Nerd 🐱‍👤</h1>
+<h1 align="left">Heeeey 🙋‍♂️❤</h1>
+<h1 align="left">🚀 Node.js/NestJS Engineer | Nerd 🐱‍👤</h1>
 I turn coffee into scalable, high-performance systems. Passionate about building robust backend solutions with Node.js, architecting RESTful APIs, and engineering real-time applications that don't just work – they dominate.
 
-<h1 align="left">💻 Tech Arsenal: Nest.js | TypeScript | OWASP Top 10 | CEH Certified</h1>
+<h1 align="left">💻 Security Skills: OWASP Top 10 | CEH Certified</h1>
 
 
 
