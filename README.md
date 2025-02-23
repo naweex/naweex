@@ -6,7 +6,7 @@ I turn coffee into scalable, high-performance systems. Passionate about building
 <h1 align="left">💻 Security Skills: OWASP Top 10 | CEH Certified</h1>
 
 
-
+<h1 align="left">programming skills
 <div display="flex">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 <img width="12" />
@@ -32,7 +32,7 @@ I turn coffee into scalable, high-performance systems. Passionate about building
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="swagger"/>
 <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burp suite"/>
-
+</h1>
 ### 📫 How to reach me
 <div align="left">
   <a href="mailto:navid.bahrami201@gmail.com">
