@@ -1,10 +1,7 @@
 ###
 <h1 align="left">Heeeey 🙋‍♂️❤</h1>
-<h1 align="left">🚀 Node.js/NestJS Engineer | Nerd 🐱‍👤</h1>
-I turn coffee into scalable, high-performance systems. Passionate about building robust backend solutions with Node.js, architecting RESTful APIs, and engineering real-time applications that don't just work – they dominate.
 
 <h1 align="left">💻 Security Skills: OWASP Top 10 | CEH Certified</h1>
-
 
 <h1 align="left">programming skills:</h1>
 
@@ -21,7 +18,6 @@ I turn coffee into scalable, high-performance systems. Passionate about building
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Express/Express-original.svg" height="40" alt="Express js logo"  />
 <img width="12" />
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express js"/>
-<img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" alt="fastify"/>
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"alt="GraphQl"/>
 <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"alt="Socket.io"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
